@@ -1,3 +1,2 @@
 TITLE FiveM Server
-cd /d "insert directory to server data folder here"
-"insert directory to server folder"\FXServer.exe +exec server.cfg
+cd /d D:\huemp-main\huemp-main\huemp-server\cfx-server-data-master\FXServer.exe +exec server.cfg
